@@ -14,3 +14,11 @@
 =>accessing RDD's in dataframes
 
 =>spark dataframes and pandas dataframes
+
+**#London crime dataset**
+
+=>Exploring the London crime dataset
+
+=>Grouping, aggregating, & ordering data
+
+=>Aggregations & visualizations
