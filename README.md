@@ -22,3 +22,15 @@
 =>Grouping, aggregating, & ordering data
 
 =>Aggregations & visualizations
+
+**#UDFs to extract information about soccer players**
+
+=>working with joins in dataframes
+
+=>using broadcast variables
+
+=>working with accumulators
+
+=>saving dataframes as csv & json files
+
+=>using custom accumulators
