@@ -34,3 +34,7 @@
 =>saving dataframes as csv & json files
 
 =>using custom accumulators
+
+!Miscelleneous operations
+
+!joins
